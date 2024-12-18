@@ -1,5 +1,7 @@
 # Credit-Card-Financial-Dashboard
 
+"C:\Users\pc\Desktop\5fb298a9-8623-4bc0-8bc5-92fc1115de16.jpeg"
+
 ## Overview
 
 This project aims to develop a **comprehensive credit card weekly dashboard** using Power BI. The dashboard provides real-time insights into key performance metrics and trends related to credit card operations, enabling stakeholders to make informed decisions. The data for this dashboard is sourced from a SQL database, and the project includes data import, transformation, and visualization using DAX queries and Power BI’s interactive dashboard features.
