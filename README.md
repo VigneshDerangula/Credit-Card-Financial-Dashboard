@@ -98,10 +98,10 @@ The Power BI dashboard integrates **real-time transaction and customer data** fr
 - Key financial metrics such as total transaction amounts, customer counts, and delinquency rates.
 - Visualizations to facilitate comparison of current and previous week's performance.
 
-**Credit Card Transaction Report**
+- **Credit Card Transaction Report**:
 ![image](https://github.com/user-attachments/assets/b8f33ca9-8d6a-43fb-a61a-d42ce221ca12)
 
-**Credit Card Customer Report**
+- **Credit Card Customer Report**:
 ![image](https://github.com/user-attachments/assets/7454132b-8c6f-4709-8364-df1495c4b55c)
 
 
