@@ -1,6 +1,6 @@
 # Credit-Card-Financial-Dashboard
 
-"C:\Users\pc\Desktop\5fb298a9-8623-4bc0-8bc5-92fc1115de16.jpeg"
+![5fb298a9-8623-4bc0-8bc5-92fc1115de16](https://github.com/user-attachments/assets/4eb9bf1d-7dd8-46ed-a733-50c65f000499)
 
 ## Overview
 
